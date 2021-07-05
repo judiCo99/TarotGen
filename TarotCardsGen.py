@@ -133,8 +133,6 @@ def Score(Paquet):
     return Score
 
 #==========================================
-#ajouter True en variable dans les appelle de fonction pour ajouter les jocker
-#add True as a variable in the function calls to add the wildcards
 
 #stocker les cartes
 #stock cards
